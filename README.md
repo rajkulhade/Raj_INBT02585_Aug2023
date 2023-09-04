@@ -1,4 +1,4 @@
-# IneuBytes Data Science Internship - August 2023
+# INeuBytes Data Science Internship - August 2023
 
 Welcome to my Data Science Internship repository with IneuBytes, where I've documented my journey in the field of data science during the August 2023 internship. This repository showcases my work on three exciting datasets, each involving data cleaning, data visualization, and the development of machine learning models.
 
