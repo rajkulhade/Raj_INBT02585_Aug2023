@@ -24,7 +24,7 @@ This project involved predictive analysis and customer segmentation. I cleaned a
 
 ## Repository Structure
 
-- `/heart-disease-prediction`: Contains code and notebooks for the Heart Disease Prediction project.
+- `/Heart-disease-prediction`: Contains code and notebooks for the Heart Disease Prediction project.
 - `/air-pollution-analysis`: Includes code and notebooks for the Air Pollution Analysis project.
 - `/customer-segmentation`: Holds code and notebooks for the Predictive Analysis and Customer Segmentation project.
 
