@@ -16,7 +16,7 @@ In this project, I worked on predicting whether a patient is suffering from hear
 
 In the Air Pollution Analysis project, I focused on studying the levels of Pm2.5 in the air. Through data preprocessing and visualization, I gained insights into air quality trends and pollution levels, contributing to environmental awareness.
 
-### 3. Predictive Analysis and Customer Segmentation
+### 3. Major Predictive Analysis and Customer Segmentation
 
 **Dataset:** Customer Segmentation Dataset
 
